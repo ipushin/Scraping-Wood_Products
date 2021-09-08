@@ -3,7 +3,7 @@
 Project on UpWork aimed to collect, process and store data
 
 
-DEV 001
+
 Issue #37
 
 Work in progress PR related to adding a feature of loading events data from a postgres db.
