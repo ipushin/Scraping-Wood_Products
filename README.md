@@ -2,11 +2,6 @@
 
 Project on UpWork aimed to collect, process and store data
 
-##TODO
-
-- [ ] Collect data from all the stores
-- [x] Check the dimentions
-- [x] Testing PR Sep 8
 
 DEV 001
 Issue #37
@@ -21,4 +16,3 @@ TODO:
 - [ ] Add function to load data from postgres db
 - [ ] Add a dropdown menu to choose table with events
 - [ ] Make the app working properly with data from postgres db
-- [ ] Make tests   
