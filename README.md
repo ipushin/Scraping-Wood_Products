@@ -6,3 +6,4 @@ Project on UpWork aimed to collect, process and store data
 
 - [ ] Collect data from all the stores
 - [x] Check the dimentions
+- [x] Testing PR Sep 8
