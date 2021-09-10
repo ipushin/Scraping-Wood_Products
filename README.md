@@ -16,3 +16,6 @@ TODO:
 - [ ] Add a dropdown menu to choose table with events
 - [ ] Make the app working properly with data from postgres db
 - [ ] TEST
+- [ ] TEST 2
+- [ ] TEST 3
+- [ ] TEST 4
