@@ -3,7 +3,6 @@
 Project on UpWork aimed to collect, process and store data
 
 
-TEST
 Issue #37
 
 Work in progress PR related to adding a feature of loading events data from a postgres db.
@@ -16,3 +15,4 @@ TODO:
 - [ ] Add function to load data from postgres db
 - [ ] Add a dropdown menu to choose table with events
 - [ ] Make the app working properly with data from postgres db
+- [ ] TEST
